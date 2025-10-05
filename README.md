@@ -57,6 +57,8 @@ Each submodule is integrated at the **RTL level**, verified through simulation, 
 
 ---
 
+![Alt Text](images/simulation.png)
+
 ## ⚙️ ASIC Design Flow
 
 | Stage | Tool Used | Description |
