@@ -35,6 +35,7 @@
 Each submodule is integrated at the **RTL level**, verified through simulation, and synthesized into gate-level netlists before proceeding to backend layout generation.
 
 ---
+![Alt Text](images/BabySoC_block.png)
 
 ## 🧩 Key Modules
 
@@ -57,7 +58,7 @@ Each submodule is integrated at the **RTL level**, verified through simulation, 
 
 ---
 
-![Alt Text](images/simulation.png)
+![Alt Text](images/simualtion.png)
 
 ## ⚙️ ASIC Design Flow
 
